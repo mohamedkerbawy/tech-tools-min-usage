@@ -22,7 +22,7 @@ Playwright is an automation framework for web apps testing.
 
 ## Appium
 
-an open-source project and ecosystem of related software, designed to facilitate UI automation of many app platforms, including mobile, desktop, TV.
+An open-source project and ecosystem of related software, designed to facilitate UI automation of many app platforms, including mobile, desktop, TV.
 
 [Appium WebSite](https://appium.io/)
 
@@ -32,13 +32,13 @@ an open-source project and ecosystem of related software, designed to facilitate
 
 ## Cucumber
 
-**Cucumber** is a tool that supports Behaviour-Driven Development(BDD). Cucumber reads executable specifications written in plain text and validates that the software does what those specifications say
+**Cucumber** is a tool that supports Behaviour-Driven Development(BDD). Cucumber reads executable specifications written in plain text and validates that the software does what those specifications say.
 
-**Gherkin** is a set of grammar rules that makes plain text structured enough for Cucumber to understand
+**Gherkin** is a set of grammar rules that makes plain text structured enough for Cucumber to understand.
 
 **Step definitions** Works to connect Gherkin steps to programming code.
 
-**Reqnroll** is a BDD Cucumber Framework for .NET
+**Reqnroll** is a BDD Cucumber Framework for .NET.
 
 [Cucumber Website](https://cucumber.io/) | [Cucumber Documentation Website](https://cucumber.io/docs)
 

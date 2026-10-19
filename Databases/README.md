@@ -12,7 +12,7 @@ Microsoft SQL Server is a relational database management system (RDBMS). Applica
 
 [SQL_Server_Overview](https://drive.google.com/file/d/10srlgu5D117ebQWwE_BgIKbXyrpwFY-h/view?usp=drive_link)
 
-## Oracle AI Database
+## Oracle Database
 
 AI-native database that integrates AI directly into enterprise data management, enabling advanced analytics, vector search, and agentic AI workflows.
 
@@ -25,6 +25,8 @@ AI-native database that integrates AI directly into enterprise data management, 
 [Oracle Database Overview](https://drive.google.com/file/d/1wQ87VaQgrq8VKtMiJ_eVsCzdOBIZq18k/view?usp=drive_link)
 
 ## PostgreSQL
+
+An open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
 
 [PostgreSQL WebSite](https://www.postgresql.org/)
 

@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-Client-side scripting language
+Client-side scripting language.
 
 [JavaScript Website](https://www.javascript.com/)
 
@@ -18,7 +18,7 @@ Client-side scripting language
 
 ## TypeScript
 
-a strongly typed programming language that builds on JavaScript
+A strongly typed programming language that builds on JavaScript.
 
 [TypeScript Website](https://www.typescriptlang.org/)
 

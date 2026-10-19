@@ -2,7 +2,7 @@
 
 ## HTML
 
-a markup language for creating Web pages and describes the structure of a Web page
+A markup language for creating Web pages and describes the structure of a Web page.
 
 [HTML Website](https://html.spec.whatwg.org/)
 
@@ -12,7 +12,7 @@ a markup language for creating Web pages and describes the structure of a Web pa
 
 ## CSS
 
-a language use to style a Web page
+A language use to style a Web page.
 
 [CSS Website](https://www.w3.org/TR/css/#css)
 
@@ -22,7 +22,7 @@ a language use to style a Web page
 
 ## XML
 
-a markup language used to store and transport data.
+A markup language used to store and transport data.
 
 [XML Website](https://www.w3.org/TR/xml/)
 

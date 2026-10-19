@@ -1,8 +1,8 @@
 # Technical Tools
 
-Essential Usage Guide for Software Development & Quality Engineering Tools
+Essential Usage Guide for Software Development & Quality Engineering Tools.
 
-_Technical Tools, Editors, IDE's, Shells, SCM, ALM, Programming Languages, Scripting Languages, Frameworks, Databases, DBMS, APIs, Web Technologies, Automation, Containers, CI/CD_
+**Keywords:** _Technical Tools, Editors, IDE's, Shells, SCM, ALM, Programming Languages, Scripting Languages, Frameworks, Databases, DBMS, APIs, Web Technologies, Automation, Containers, CI/CD_
 
 ![TechnicalSkills](TechTools.png)
 
@@ -36,7 +36,7 @@ C#.NET/NuGet, Java/maven, Node.js/npm
 
 ## [Backend Frameworks](BackendFrameworks/README.md)
 
-ASP.NET
+ASP.NET Core
 
 ## [API Frameworks](APIs/README.md)
 
@@ -56,13 +56,13 @@ Blazor, Angular, Vue.js, .NET MAUI
 
 ## [Databases/DBMS](Databases/README.md)
 
-SQL Server, Oracle Database, PostgreSQL
+SQL Server/SSMS, Oracle Database/SQL Developer, PostgreSQL/pgAdmin
 
 ## [Unit Testing Frameworks](UnitTesting/README.md)
 
 NUnit, MSTest, xUnit.net, Chai/Mocha, TestNG
 
-## [API Testing Tools](ApiTesting/README.md)
+## [API Testing Tools](APiTesting/README.md)
 
 Postman, SoapUI, RestAssured
 

@@ -2,9 +2,9 @@
 
 ## PowerShell
 
-a shell program provides a command-line interpreter for interactive use and a script interpreter for automation via a language defined for it
+**PowerShell** is a shell program provides a command-line interpreter for interactive use and a script interpreter for automation via a language defined for it.
 
-Windows PowerShell ISE (Integrated Scripting Environment) is a built-in graphical user interface (GUI) for Windows that allows you to write, test, and debug PowerShell scripts.
+**Windows PowerShell ISE (Integrated Scripting Environment)** is a built-in graphical user interface (GUI) for Windows that allows you to write, test, and debug PowerShell scripts.
 
 [PowerShell Documentation Website](https://learn.microsoft.com/en-us/powershell/)
 
@@ -18,9 +18,9 @@ Windows PowerShell ISE (Integrated Scripting Environment) is a built-in graphica
 
 ## Command Prompt
 
-a command-Line shell that provides direct communication between user and Windows operating system.
+**Command Prompt** is a command-Line shell that provides direct communication between user and Windows operating system.
 
-Windows Terminal is a modern host application for the command-line shells, like Command Prompt, PowerShell, and bash (via Windows Subsystem for Linux (WSL)).
+**Windows Terminal** is a modern host application for the command-line shells, like Command Prompt, PowerShell, and bash (via Windows Subsystem for Linux (WSL)).
 
 [Windows Terminal Website](https://learn.microsoft.com/en-us/windows/terminal/)
 
@@ -32,9 +32,9 @@ Windows Terminal is a modern host application for the command-line shells, like 
 
 ## Bash (Bourne-Again SHell)
 
-Command language interpreter used for UNIX-like operating systems (e.g. Linux) and runs on other operating systems
+**Bash** is a Command language interpreter used for UNIX-like operating systems (e.g. Linux) and runs on other operating systems.
 
-Windows Subsystem for Linux (WSL) lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows without the overhead of a traditional virtual machine or dual-boot setup
+**Windows Subsystem for Linux (WSL)** lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows without the overhead of a traditional virtual machine or dual-boot setup.
 
 [GNU Bash Website](https://www.gnu.org/software/bash/)
 

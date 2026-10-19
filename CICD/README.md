@@ -2,7 +2,7 @@
 
 ## Azure Pipelines
 
-Azure Pipelines is the part of Azure DevOps that combines continuous integration, continuous testing, and continuous delivery to automatically build, test, and deploy code projects to any destination
+Azure Pipelines is the part of Azure DevOps that combines continuous integration, continuous testing, and continuous delivery to automatically build, test, and deploy code projects to any destination.
 
 [Azure Pipelines Website](https://azure.microsoft.com/en-us/products/devops/pipelines/)
 
@@ -12,7 +12,7 @@ Azure Pipelines is the part of Azure DevOps that combines continuous integration
 
 ## GitHub Actions
 
-a continuous integration and continuous delivery (CI/CD) platform that allows to automate build, test, and deployment pipeline
+A continuous integration and continuous delivery (CI/CD) platform that allows to automate build, test, and deployment pipeline.
 
 [GitHub Actions Website](https://github.com/features/actions)
 
@@ -22,7 +22,7 @@ a continuous integration and continuous delivery (CI/CD) platform that allows to
 
 ## Jenkins
 
-a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+A self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
 
 [Jenkins Website](https://www.jenkins.io/)
 

@@ -1,8 +1,8 @@
-# API
+# APIs Frameworks
 
 ## ASP.NET Web API
 
-REST APIs with ASP.NET Core
+REST APIs with ASP.NET Core.
 
 [Web API Website](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 
@@ -12,7 +12,7 @@ REST APIs with ASP.NET Core
 
 ## WCF (Windows Communication Foundation)
 
-Windows Communication Foundation (WCF) is a framework for building service-oriented applications
+Windows Communication Foundation (WCF) is a framework for building service-oriented applications.
 
 [WCF Website](https://learn.microsoft.com/en-us/dotnet/framework/wcf/)
 

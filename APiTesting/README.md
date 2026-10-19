@@ -2,14 +2,13 @@
 
 ## Postman
 
-Postman is the API platform for using, building, and testing APIs
+Postman is the API platform for using, building, and testing APIs.
 
 [Postman Website](https://www.postman.com/)
 
 [Postman Docs Website](https://learning.postman.com/)
 
 [Get Started with Postman](https://drive.google.com/file/d/136ipSECjQAbCjSEbWYZkklHbDHdSGeqT/view?usp=drive_link)
-
 
 ## SoapUI
 

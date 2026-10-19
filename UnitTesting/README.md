@@ -2,7 +2,7 @@
 
 ## NUnit
 
-a unit testing framework for .Net Programming languages
+A unit testing framework for .Net Programming languages.
 
 [NUnit Website](https://nunit.org/)
 
@@ -14,7 +14,7 @@ a unit testing framework for .Net Programming languages
 
 ## MSTest
 
-a Microsoft Testing framework for .NET applications.
+A Microsoft Testing framework for .NET applications.
 
 [MSTest github](https://github.com/microsoft/testfx)
 
@@ -24,7 +24,7 @@ a Microsoft Testing framework for .NET applications.
 
 ## xUnit.net
 
-a unit testing tool for the .NET Framework
+A unit testing tool for the .NET Framework.
 
 [xUnit WebSite](https://xunit.net/)
 
@@ -34,7 +34,7 @@ a unit testing tool for the .NET Framework
 
 ## Mocha and Chai
 
-**Mocha** is a JavaScript test framework for Node.js programs
+**Mocha** is a JavaScript test framework for Node.js programs.
 
 **Chai** is an assertion library that is used chiefly alongside Mocha.
 
@@ -44,7 +44,7 @@ a unit testing tool for the .NET Framework
 
 ## TestNG
 
-a unit testing framework for Java programming language
+A unit testing framework for Java programming language.
 
 [TestNG Website](https://testng.org/)
 

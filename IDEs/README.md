@@ -2,7 +2,7 @@
 
 ## Visual Studio Code
 
-Code Edittor with rich features
+Code Edittor with rich features.
 
 [Visual Studio Code Website](https://code.visualstudio.com/)
 
@@ -12,7 +12,7 @@ Code Edittor with rich features
 
 ## Visual Studio IDE
 
-An Integrated Development Environment (IDE) for professional development in .NET
+An Integrated Development Environment (IDE) for professional development in .NET .
 
 [Visual Studio Website](https://visualstudio.microsoft.com/)
 
@@ -22,7 +22,7 @@ An Integrated Development Environment (IDE) for professional development in .NET
 
 ## IntelliJ IDEA
 
-An Integrated Development Environment (IDE) for professional development in Java 
+An Integrated Development Environment (IDE) for professional development in Java.
 
 [IntelliJ IDEA Website](https://www.jetbrains.com/idea/)
 

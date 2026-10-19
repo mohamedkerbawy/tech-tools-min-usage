@@ -2,7 +2,7 @@
 
 ## Azure DevOps
 
-Microsoft Application lifecycle management tool that provide Plan, Track, Collaborate, Source control, Build, Test, Deploy, CI/CD Services
+Microsoft Application lifecycle management tool that provide Plan, Track, Collaborate, Source control, Build, Test, Deploy, CI/CD Services.
 
 [Azure DevOps Website](https://azure.microsoft.com/en-us/products/devops)
 
@@ -14,7 +14,7 @@ Microsoft Application lifecycle management tool that provide Plan, Track, Collab
 
 ## Jira
 
-a project management tool used to plan and track work across teams.
+A project management tool used to plan and track work across teams.
 
 [Jira Website](https://www.atlassian.com/software/jira)
 

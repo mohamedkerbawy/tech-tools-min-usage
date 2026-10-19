@@ -1,6 +1,8 @@
-# JMeter
+# Performance Testing
 
-used to load test functional behavior and measure performance
+## JMeter
+
+JMeter used to load test functional behavior and measure performance.
 
 [Apache JMeter Website](https://jmeter.apache.org/)
 

@@ -2,6 +2,8 @@
 
 ## Docker
 
+An open-source platform that uses OS-level virtualization to package, ship, and run applications in lightweight, isolated containers.
+
 [Docker WebSite](https://www.docker.com/)
 
 [Docker Docs WebSite](https://docs.docker.com/)

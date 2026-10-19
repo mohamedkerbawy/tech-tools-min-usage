@@ -1,8 +1,8 @@
-# Front-end Frameworks
+# Frontend/Mobile Frameworks
 
 ## Angular
 
-a TypeScript-based web application framework
+A TypeScript-based web application framework.
 
 [Angular Website](https://angular.dev/)
 
@@ -12,7 +12,7 @@ a TypeScript-based web application framework
 
 ## Vue.js
 
-a JavaScript framework for building user interfaces. It builds on HTML, CSS, and JavaScript.
+A JavaScript framework for building user interfaces. It builds on HTML, CSS, and JavaScript.
 
 [Vue.js Website](https://vuejs.org/)
 
@@ -22,7 +22,7 @@ a JavaScript framework for building user interfaces. It builds on HTML, CSS, and
 
 ## Blazor
 
-a modern front-end web framework based on HTML, CSS, and C#
+A modern front-end web framework based on HTML, CSS, and C#.
 
 [Blazor Website](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor/)
 
@@ -34,9 +34,13 @@ a modern front-end web framework based on HTML, CSS, and C#
 
 ## .NET MAUI (Multi-platform App UI)
 
+**.NET Multi-platform App UI (.NET MAUI)** is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
+
+**The eXtensible Application Markup Language (XAML)** is an XML-based language that's an alternative to programming code for instantiating and initializing objects, and organizing those objects in parent-child hierarchies.
+
 [.NET MAUI Website](https://dotnet.microsoft.com/en-us/apps/maui)
 
-[.NET MAUI documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
+[.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/) | [XAML Guide](https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/get-started)
 
 [Get started with XAML](https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/get-started)
 

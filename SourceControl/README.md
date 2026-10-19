@@ -2,7 +2,7 @@
 
 ## Git
 
-a distrubuted source control Management system (SCM).
+A distrubuted source control Management system (SCM).
 
 [Git Website](https://git-scm.com/)
 
