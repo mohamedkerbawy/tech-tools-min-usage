@@ -32,7 +32,7 @@ Azure Pipelines, GitHub Actions, Jenkins
 
 ## [Server-side Languages](ServerLanguages/README.md)
 
-C#.NET, Java
+C#.NET/NuGet, Java/maven, Node.js/npm
 
 ## [Backend Frameworks](BackendFrameworks/README.md)
 
