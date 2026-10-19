@@ -23,3 +23,5 @@ a high-level Programming Language.
 [Java Tutorials Website](https://dev.java/learn/)
 
 [Java Programming Language Fundamentals](https://drive.google.com/file/d/1YI3ohy1I20YJd07p5REFCcDDoqfH7AaW/view?usp=drive_link)
+
+[Get Started with maven](https://drive.google.com/file/d/1lPpJJnTPjJe-R_UOql3IN0GKpRXmQHSD/view?usp=drive_link)

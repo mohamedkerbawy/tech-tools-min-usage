@@ -12,6 +12,8 @@ Windows PowerShell ISE (Integrated Scripting Environment) is a built-in graphica
 
 [PowerShell ISE Quick Reference](https://drive.google.com/file/d/1Q5EUzxS8msA9HkHukdZTi4eW4CLU5HOZ/view?usp=drive_link)
 
+[Guide to Windows PowerShell e-book](https://drive.google.com/file/d/16rgLJsNOn8gGXHIVYO36XXUrlLXmZCCd/view?usp=drive_link)
+
 [Get Started with PowerShell](https://drive.google.com/file/d/1ElVJDT3yMDtV-LAcAHig-EzphgfGa_-0/view?usp=drive_link)
 
 ## Command Prompt

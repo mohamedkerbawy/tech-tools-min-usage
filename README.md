@@ -1,12 +1,12 @@
 # Technical Tools
 
-Minimal Implementation for Software development, Software Quality Engineering Tools.
+Essential Usage Guide for Software Development & Quality Engineering Tools
 
-_Technical Tools, IDE's, Shell, ALM, Languages, Frameworks, Databases, APIs, Web Technologies, Automation, Containers, CI/CD, Other Technologies_
+_Technical Tools, Editors, IDE's, Shells, SCM, ALM, Programming Languages, Scripting Languages, Frameworks, Databases, DBMS, APIs, Web Technologies, Automation, Containers, CI/CD_
 
 ![TechnicalSkills](TechTools.png)
 
-## [Coding IDEs](IDEs/README.md)
+## [Coding Editors/IDEs](IDEs/README.md)
 
 Visual Studio Code, Visual Studio IDE, IntelliJ IDEA
 
@@ -22,23 +22,23 @@ Git, GitHub
 
 Jira, Azure DevOps
 
-## Containers
+## [Containers](Containers/README.md)
 
 Docker
 
-## CI/CD Tools
+## [CI/CD Tools](CICD/README.md)
 
 Azure Pipelines, GitHub Actions, Jenkins
 
-## [Server-side Languages]((ServerLanguages/README.md))
+## [Server-side Languages](ServerLanguages/README.md)
 
 C#.NET, Java
 
-## Back-end Frameworks
+## [Backend Frameworks](BackendFrameworks/README.md)
 
 ASP.NET
 
-## APIs
+## [API Frameworks](APIs/README.md)
 
 Web API, WCF Services
 
@@ -46,23 +46,23 @@ Web API, WCF Services
 
 HTML, CSS, XML
 
-## Client-side Languages
+## [Client-side Languages](ClientsideLanguages/README.md)
 
 JavaScript, TypeScript
 
-## Front-end/Mobile Frameworks
+## [Frontend/Mobile Frameworks](FrontendFrameworks/README.md)
 
-Blazor, Angular, Vue.js, .net maui
+Blazor, Angular, Vue.js, .NET MAUI
 
-## Databases
+## [Databases/DBMS](Databases/README.md)
 
-SQL Server, Oracle, PostgreSQL
+SQL Server, Oracle Database, PostgreSQL
 
-## Unit Testing Frameworks
+## [Unit Testing Frameworks](UnitTesting/README.md)
 
 NUnit, MSTest, xUnit.net, Chai/Mocha, TestNG
 
-## API Testing Tools
+## [API Testing Tools](ApiTesting/README.md)
 
 Postman, SoapUI, RestAssured
 
@@ -74,6 +74,6 @@ JMeter
 
 OWASP ZAP
 
-## Test Automation Tools
+## [Test Automation Tools](TestAutomation/README.md)
 
-Selenium, Playwright, Appium, Cucumber
+Selenium, Playwright, Appium, Cucumber/Reqnroll
