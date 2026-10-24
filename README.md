@@ -4,7 +4,7 @@ Essential Usage Guide for Software Development & Quality Engineering Tools.
 
 **Keywords:** _Technical Tools, Editors, IDE's, Shells, SCM, ALM, Programming Languages, Scripting Languages, Frameworks, Databases, DBMS, APIs, Web Technologies, Automation, Containers, CI/CD_
 
-![TechnicalSkills](TechTools.png)
+![TechnicalTools](TechTools.png)
 
 ## [Coding Editors/IDEs](IDEs/README.md)
 

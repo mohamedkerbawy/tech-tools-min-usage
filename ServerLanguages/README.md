@@ -16,6 +16,8 @@
 
 [C#.NET Foundation](https://drive.google.com/file/d/1oVwpcC77HG-hgvD9rUq5O_TdaBcek_Xe/view?usp=drive_link)
 
+[Effective C# Book](https://drive.google.com/file/d/1peyI9jf8I9m8apT660rh-HPp3jVAUeLY/view?usp=drive_link)
+
 ## Java
 
 **Java** is a high-level Programming Language.
